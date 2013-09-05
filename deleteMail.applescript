@@ -1,7 +1,7 @@
 set accountList to {"Akamai"}
 set folderList to {¬
 	{accountName:"Gmail", mailboxName:"INBOX/stuff", staleDays:14}, ¬
-	{accountName:"gMail", mailboxName:"INBOX/things", staleDays:14}, ¬
+	{accountName:"Gmail", mailboxName:"INBOX/things", staleDays:14}, ¬
 		}
 set currentDate to current date
 
